@@ -1,0 +1,33 @@
+﻿general_code,mis_felony,violent_offense
+Aggravated Assault Firearm,felony,yes
+Aggravated Assault No Firearm,felony,yes
+All Other Offenses,other,other
+Arson,felony,yes
+Burglary Non-Residential,felony,exclude
+Burglary Residential,felony,exclude
+Disorderly Conduct,misdemeanor,exclude
+DRIVING UNDER THE INFLUENCE,misdemeanor,no
+Embezzlement,exclude,no
+Forgery and Counterfeiting,exclude,no
+Fraud,exclude,no
+Gambling Violations,exclude,no
+Homicide - Criminal,felony,yes
+Homicide - Gross Negligence,felony,yes
+Homicide - Justifiable,felony,yes
+Liquor Law Violations,citation,no
+Motor Vehicle Theft,felony,no
+Narcotic / Drug Law Violations,exclude,no
+Offenses Against Family and Children,exclude,exclude
+Other Assaults,other,yes
+Other Sex Offenses (Not Commercialized),exclude,yes
+Prostitution and Commercialized Vice,exclude,no
+Public Drunkenness,exclude,no
+Rape,felony,yes
+Receiving Stolen Property,exclude,no
+Robbery Firearm,felony,yes
+Robbery No Firearm,felony,yes
+Theft from Vehicle,misdemeanor,no
+Thefts,exclude,no
+Vagrancy/Loitering,misdemeanor,no
+Vandalism/Criminal Mischief,misdemeanor,no
+Weapon Violations,exclude,no

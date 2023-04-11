@@ -1,0 +1,12 @@
+﻿name,description
+dispatch_date,Dispatch date formatted as a string
+violent_offense_count,"Sum of violent offense counts for crimes  categorized as a violent offense, distilled from General Crime Category."
+felony_count,"Sum of felony counts for crimes  categorized as a violent offense, distilled from General Crime Category."
+misdemeanor_count,"Sum of misdemeanor counts for crimes  categorized as a violent offense, distilled from General Crime Category."
+year,The year that the dispatch occurred
+year_group,"The year_group that the dispatch occurred, distilled from Dispatch Date/Time. Four years each, except for 2018-2022. 2018-2022 was chosen for sake of context around covid."
+dispatch_wday,"The day of the week that the dispatch occurred, distilled from Dispatch Date/Time."
+dispatch_month,"The month that the dispatch occurred, distilled from Dispatch Date/Time."
+dispatch_quarter,"The quarter that the dispatch occurred, distilled from Dispatch Date/Time. Four 3 month periods starting from the first day of the year."
+tmax,Maximum temperature over the course of a day.
+tmin,Minimum temperature over the course of a day.
